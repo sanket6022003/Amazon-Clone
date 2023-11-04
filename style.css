@@ -1,0 +1,34 @@
+
+ *{
+    color:red;
+}
+
+
+
+ 
+body
+{
+    background-color: rgba(200,250,250);
+}
+button{
+    color:blue;
+    background-color: white;
+} */
+ #div
+{
+    background-color: blue;
+    color:white;
+} 
+
+#h1{
+    background-color: red;
+    color:white;
+    font-weight: lighter;
+}
+#h4{
+    font-family: arial ;
+}
+#div{
+    text-decoration: line-through;
+    text-align:center
+}
